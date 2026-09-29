@@ -1,6 +1,6 @@
 # continuation-prompt · 新对话接续提示词生成器
 
-一个 WorkBuddy / AI Agent 技能（Skill）：为「新对话接续任务」自动生成或增量更新**新对话接续提示词**（接力提示词 / continuation prompt）。
+一个 AI Agent 技能（Skill）：为「新对话接续任务」自动生成或增量更新**新对话接续提示词**（接力提示词 / continuation prompt）。
 
 用户把生成的提示词粘贴到新对话开头，新 AI 即可无缝接续项目上下文——已完成什么、卡在哪、做过什么决策及理由、踩过什么坑——无需翻聊天记录考古。
 
