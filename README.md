@@ -37,4 +37,6 @@ continuation-prompt/
 
 ## License
 
-MIT
+MIT License · © 2026 Alicifia
+
+详见 [LICENSE](LICENSE) 文件。
